@@ -1,53 +1,53 @@
 criaCartao(
-    'Química',
-    'O que são os hidrocarbonetos?',
-    'Hidrocarbonetos são compostos formados apenas por carbono e hidrogênio.'
+    'Filosofia',
+    'O que é a vida?',
+    ' a vida é uma propriedade da matéria; é eterna e surge quando as condições se mostram propícias.'
 )
 
 criaCartao(
-    'Química',
-    'Quais são os 4 tipos de hidrocarbonetos?',
-    'São eles: Alcano, alceno, alcino e alcadieno.'
+    'Filosofia',
+    'quem foi o primeiro filosofo?',
+    'Tales de Mileto.'
 )
 
 criaCartao(
-    'Química',
-    'Qual é o prefixo de um hidrocarboneto com 3 carbonos?',
-    'Seu prefixo é prop.'
+    'Filosofia',
+    'O qual era o maior problema para os pré-socráticos?',
+    'Descobrir a arché.'
 )
 
 criaCartao(
-    'Química',
-    'Qual é o prefixo de um hidrocarboneto com 5 carbonos?',
-    'Seu prefixo é pent.'
+    'Filosofia',
+    'O que são pré-socráticos?',
+    'são quaisquer filosofos  que surgirão antes de Socrates.'
 )
 
 criaCartao(
-    'Química',
-    'Qual é o prefixo de um hidrocarboneto com 6 carbonos?',
-    'Seu prefixo é Hex.'
+    'Filosofia',
+    'O que é arché?',
+    'se traduzindo do Grego, significada natureza de algo, e esse algo seria a natureza do próprio universo, sendo oque o deu origem.'
 )
 
 criaCartao(
-    'Química',
-    'O que significa o infixo "an"?',
-    'Significa que o hidrocarboneto possui ligações simples entre carbonos.'
+    'Filosofia',
+    'O que é um sofista?',
+    'eram intelectuais como os filosofos, porem recebiam dinheiro por seus ensinamentos.'
 )
 
 criaCartao(
-    'Química',
-    'O que siginifica o infixo "en"',
-    'Significa que o hidrocarboneto possui uma ligação dupla entre carbonos.'
+    'Filosofia',
+    'O que siginifica filosofia?.'
+    'Significa amor a sabedoria.'
 )
 
 criaCartao(
-    'Química',
-    'O que siginifica o infixo "in"',
-    'Significa que o hidrocarboneto possui uma ligação tripla entre carbonos.'
+    'Filosofia',
+    'o que é justiça',
+    'E um conceito abstrato, onde seu significado muda de acordo com a pessoa, sendo normalmente é a particularidade do que é justo e correto, como o respeito à igualdade de todos os cidadãos.'
 )
 
 criaCartao(
-    'Química',
-    'O que é um hidrocarboneto ramificado?',
-    'É um hidrocarboneto cuja cadeia possui mais de duas extremidades'
+    'Filosofia',
+    'O que é um filosofo?',
+    'qualquer pessoa que se questiona ou crítica uma verdade e busca compreendela ou apenas um amante do saber'
 )
